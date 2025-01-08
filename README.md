@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Medical Clinic System </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Medical Clinic System](https://github.com/joonasisoininen/MedicalClinicSystem/tree/main)
 
 <h2> Certification:</h2>
 
