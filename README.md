@@ -4,10 +4,10 @@
 
   - [Medical Clinic System](https://github.com/joonasisoininen/MedicalClinicSystem/tree/main)
 
-<h2> Certification:</h2>
+<h2> Certifications:</h2>
 
-- <b>LinkedIn Product Manager: A Complete Guide </b>
-- <b>LinkedIn Technical Product Manager </b>
+- <b>LinkedIn Learning Product Manager: A Complete Guide </b>
+- <b>LinkedIn Learning Technical Product Manager </b>
 
 
 <h2> 🤳 Connect with me:</h2>
