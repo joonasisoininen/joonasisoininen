@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
   - [Medical Clinic System](https://github.com/joonasisoininen/MedicalClinicSystem/tree/main)
+  - [Bitcoin Closing Price Graph Visualizer](https://github.com/joonasisoininen/Bitcoin-closing-price-graph-visualizer/tree/main)
 
 <h2> Certifications:</h2>
 
