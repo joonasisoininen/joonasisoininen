@@ -8,6 +8,7 @@
   Previous Projects:
   - [Medical Clinic System](https://github.com/joonasisoininen/MedicalClinicSystem/tree/main)
   - [Bitcoin Closing Price Graph Visualizer](https://github.com/joonasisoininen/Bitcoin-closing-price-graph-visualizer/tree/main)
+  - [KELLARIMUSIC.com](https://github.com/joonasisoininen/kellarimusic.com/tree/main) 
 
 
 
