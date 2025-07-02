@@ -1,13 +1,14 @@
 <h1>Hi, I'm Joonas! <br/><a href="https://github.com/joonasisoininen">Programmer</a>, <a href="https://www.linkedin.com/in/joonasisoininen/">Future Product Manager</a>
 
-- 🔭 I’m currently working on BetterStart, a iOS app detecting morning light exposure to help you have more energy through out the day!
-
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
+  I’m currently working on BetterStart, a iOS app detecting morning sun light exposure to help you have more energy through out the day!
+
+  Previous Projects:
   - [Medical Clinic System](https://github.com/joonasisoininen/MedicalClinicSystem/tree/main)
   - [Bitcoin Closing Price Graph Visualizer](https://github.com/joonasisoininen/Bitcoin-closing-price-graph-visualizer/tree/main)
-  - 
+
 
 
 
