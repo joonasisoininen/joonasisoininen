@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joonas! <br/><a href="https://github.com/joonasisoininen">Programmer</a>, <a href="https://www.linkedin.com/in/joonasisoininen/">Product Manager</a>
+<h1>Hi, I'm Joonas! <br/><a href="https://github.com/joonasisoininen">Software Engineer/a>, <a href="https://www.linkedin.com/in/joonasisoininen/">Product Manager</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
