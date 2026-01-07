@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-  I’m currently working on BetterStart, a iOS app detecting morning sun light exposure to help you have more energy through out the day!
+  
 
   Previous Projects:
   - [Medical Clinic System](https://github.com/joonasisoininen/MedicalClinicSystem/tree/main)
