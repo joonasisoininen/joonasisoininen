@@ -6,6 +6,7 @@
   
 
   Previous Projects:
+  - [Mt Washington Ski Resort Simulation](https://github.com/joonasisoininen/MtWashington-Simulation) 
   - [Medical Clinic System](https://github.com/joonasisoininen/MedicalClinicSystem/tree/main)
   - [Bitcoin Closing Price Graph Visualizer](https://github.com/joonasisoininen/Bitcoin-closing-price-graph-visualizer/tree/main)
   - [LinkedIn AI Chatbot](https://github.com/joonasisoininen/LinkedIn-AI-Chatbot.git)
