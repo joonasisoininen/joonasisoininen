@@ -7,7 +7,8 @@
 
   Previous Projects:
   - [Habla: Speaking First Language Exchange](https://github.com/joonasisoininen/Habla)
-  - [Mt Washington Ski Resort Simulation](https://github.com/joonasisoininen/MtWashington-Simulation) 
+  - [Mt Washington Ski Resort Simulation](https://github.com/joonasisoininen/MtWashington-Simulation)
+  - [1D Physics Collision Enginge](https://github.com/joonasisoininen/1D-Physics-Collision-Engine)
   - [Medical Clinic System](https://github.com/joonasisoininen/MedicalClinicSystem/tree/main)
   - [Bitcoin Closing Price Graph Visualizer](https://github.com/joonasisoininen/Bitcoin-closing-price-graph-visualizer/tree/main)
   - [LinkedIn AI Chatbot](https://github.com/joonasisoininen/LinkedIn-AI-Chatbot.git)
