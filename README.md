@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-  Currnenlt building nukedlive.com 
+  Currently building [nukedlive.com](https://nukedlive.com/raffle) 
 
   Previous Projects:
   - [Habla: Speaking First Language Exchange](https://github.com/joonasisoininen/Habla)
