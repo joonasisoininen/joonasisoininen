@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-  
+  Currnenlt building nukedlive.com 
 
   Previous Projects:
   - [Habla: Speaking First Language Exchange](https://github.com/joonasisoininen/Habla)
