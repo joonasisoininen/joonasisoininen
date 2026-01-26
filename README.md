@@ -1,6 +1,6 @@
 <h1>Hi, I'm Joonas! <br/><a href="https://github.com/joonasisoininen">Software Engineer</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Human Minded Software Development Projects:</h2>
 
 
   Currently building [nukedlive.com](https://nukedlive.com/) 
