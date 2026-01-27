@@ -1,5 +1,9 @@
 <h1>Hi, I'm Joonas! <br/><a href="https://github.com/joonasisoininen">Human Minded Software Engineer</a>
 
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
