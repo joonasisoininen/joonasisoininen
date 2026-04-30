@@ -8,7 +8,6 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-  Currently building [nukedlive.com](https://nukedlive.com/) 
 
   Previous Projects:
   - [Habla: Speaking First Language Exchange](https://github.com/joonasisoininen/Habla)
