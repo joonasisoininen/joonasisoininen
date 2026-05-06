@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-
+  Currently working on contentsnipe.com
 
   Previous Projects:
   - [Habla: Speaking First Language Exchange](https://github.com/joonasisoininen/Habla)
